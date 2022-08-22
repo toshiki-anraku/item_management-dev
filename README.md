@@ -1,4 +1,5 @@
-# item_management-document
-持ち物管理システムのドキュメント管理用リポジトリ
-
+# 持ち物管理システム
+### wiki
 [to Wiki Page](../../wiki)
+
+# 環境構築
