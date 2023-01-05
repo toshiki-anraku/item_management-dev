@@ -1,0 +1,9 @@
+[submodule "item_management-web"]
+	path = item_management-web
+	url = git@github.com:toshiki-anraku/item_management-web.git
+[submodule "item_management-api"]
+	path = item_management-api
+	url = git@github.com:toshiki-anraku/item_management-api.git
+[submodule "item_management-reverse_proxy"]
+	path = item_management-reverse_proxy
+	url = git@github.com:toshiki-anraku/item_management-reverse_proxy.git
